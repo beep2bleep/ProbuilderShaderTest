@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProbuilderShaderTest.CSharp.Plugins", "ProbuilderShaderTest.CSharp.Plugins.csproj", "{7FB2C8CD-A06A-696A-74A8-EF143A8F6F10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProbuilderShaderTest.CSharp", "ProbuilderShaderTest.CSharp.csproj", "{ABA12D36-BB61-C49B-0043-A613226BCB81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProbuilderShaderTest.CSharp.Editor", "ProbuilderShaderTest.CSharp.Editor.csproj", "{A5978CBD-8330-3A96-A607-26EF831E7958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB2C8CD-A06A-696A-74A8-EF143A8F6F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB2C8CD-A06A-696A-74A8-EF143A8F6F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB2C8CD-A06A-696A-74A8-EF143A8F6F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB2C8CD-A06A-696A-74A8-EF143A8F6F10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA12D36-BB61-C49B-0043-A613226BCB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA12D36-BB61-C49B-0043-A613226BCB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA12D36-BB61-C49B-0043-A613226BCB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA12D36-BB61-C49B-0043-A613226BCB81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5978CBD-8330-3A96-A607-26EF831E7958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5978CBD-8330-3A96-A607-26EF831E7958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5978CBD-8330-3A96-A607-26EF831E7958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5978CBD-8330-3A96-A607-26EF831E7958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,105 @@
+Initialize engine version: 5.4.0b14 (0d4790749194)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\KDTree.dll (this message is harmless)
+Loading C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+Platform assembly: C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\M\Documents\ProbuilderShaderTest\WebBuild\pc_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on vp_MovingPlatform
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.onSceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on vp_Respawner
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.onSceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on vp_PlayerRespawner
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.onSceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on vp_DamageHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.onSceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on vp_FPPlayerDamageHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.onSceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on vp_SpawnPoint
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.onSceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on vp_Timer
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.onSceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on vp_PlayerDamageHandler
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.onSceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+ 
+(Filename:  Line: 54)
+
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.883498 ms
+Warning (4Mace (vp_FPWeaponMeleeAttack)) This component requires a vp_WeaponShooter (adding vp_WeaponShooter automatically).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Warning (4Mace (vp_FPWeaponMeleeAttack)) WeaponShooter for this melee weapon has no 'ProjectilePrefab' (it won't be able to do damage).
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4240 -> priority: 1 
+  Thread -> id: 1280 -> priority: 1 
